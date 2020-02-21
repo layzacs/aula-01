@@ -9,3 +9,5 @@ Com o comando: `javac NomedoPrograma.java`
 Com o comando: `java NomedoPrograma.java`
 
 **OBS: Para executar um programa java você precisa ter o Java JRE instalado.**
+
+Para instalar o Java JRE, [clique aqui](https://www.java.com/pt_BR/download//).
