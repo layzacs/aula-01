@@ -2,7 +2,8 @@
 
 ## Como compilar um programa em Java
 
-```
-javac NomedoPrograma.java 
+Com o comando: `javac NomedoPrograma.java`
 
-```
+## Como executar um programa em java
+
+Com o comando: `java NomedoPrograma.java`
